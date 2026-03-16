@@ -12,21 +12,21 @@ Porto Alegre – 2026
 # Sumário
 
 - [Introdução](#introdução)
-Parte 1 – Histórico e Evolução do Java
+# Parte 1 – Histórico e Evolução do Java
   - [Criação do Java](#criação-do-java)
   - [Empresa responsável pelo Java](#empresa-responsável-pelo-java)
   - [Objetivo principal do Java](#objetivo-principal-do-java)
   - [Principais versões do Java](#principais-versões-do-java)
-Parte 2 – Ambientes de Desenvolvimento (IDEs)
+# Parte 2 – Ambientes de Desenvolvimento (IDEs)
   - [Matriz de Diferenciação Técnica](#matriz-de-diferenciação-técnica)
   - [Visualização da Interface de Desenvolvimento](#visualização-da-interface-de-desenvolvimento)
   - [Diagnóstico da Melhor IDE para os Estudos](#diagnóstico-da-melhor-ide-para-os-estudos)
-Parte 3 – Programação Orientada a Objetos (POO)
+# Parte 3 – Programação Orientada a Objetos (POO)
   - [Classe](#classe)
   - [Encapsulamento](#encapsulamento)
   - [Herança](#herança)
   - [Polimorfismo](#polimorfismo)
-Parte 4 – Mercado de Trabalho para Desenvolvedores Java
+# Parte 4 – Mercado de Trabalho para Desenvolvedores Java
   - [Panorama Salarial (Referência Brasil)](#panorama-salarial-referência-brasil)
   - [Verticais de Atuação](#verticais-de-atuação)
   - [Stack Tecnológico Indispensável](#stack-tecnológico-indispensável)
