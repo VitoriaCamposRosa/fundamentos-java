@@ -1,12 +1,5 @@
 # Fundamentos, Evolução e o Ecossistema Java
 
-Curso: Ciência da Computação  
-Disciplina: Paradigmas de Linguagens de Programação  
-Professor: Marcelo Josue Telles  
-
-Autora: Vitória Campos da Rosa  
-Porto Alegre – 2026
-
 ---
 
 # Sumário
