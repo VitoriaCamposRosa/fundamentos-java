@@ -30,6 +30,7 @@ Porto Alegre – 2026
   - [Panorama Salarial (Referência Brasil)](#panorama-salarial-referência-brasil)
   - [Verticais de Atuação](#verticais-de-atuação)
   - [Stack Tecnológico Indispensável](#stack-tecnológico-indispensável)
+    
 - [Conclusão](#conclusão)
 
 ---
