@@ -12,21 +12,21 @@ Porto Alegre – 2026
 # Sumário
 
 - [Introdução](#introdução)
-- Parte 1 – Histórico e Evolução do Java
+Parte 1 – Histórico e Evolução do Java
   - [Criação do Java](#criação-do-java)
   - [Empresa responsável pelo Java](#empresa-responsável-pelo-java)
   - [Objetivo principal do Java](#objetivo-principal-do-java)
   - [Principais versões do Java](#principais-versões-do-java)
-- Parte 2 – Ambientes de Desenvolvimento (IDEs)
+Parte 2 – Ambientes de Desenvolvimento (IDEs)
   - [Matriz de Diferenciação Técnica](#matriz-de-diferenciação-técnica)
   - [Visualização da Interface de Desenvolvimento](#visualização-da-interface-de-desenvolvimento)
   - [Diagnóstico da Melhor IDE para os Estudos](#diagnóstico-da-melhor-ide-para-os-estudos)
-- Parte 3 – Programação Orientada a Objetos (POO)
+Parte 3 – Programação Orientada a Objetos (POO)
   - [Classe](#classe)
   - [Encapsulamento](#encapsulamento)
   - [Herança](#herança)
   - [Polimorfismo](#polimorfismo)
-- Parte 4 – Mercado de Trabalho para Desenvolvedores Java
+Parte 4 – Mercado de Trabalho para Desenvolvedores Java
   - [Panorama Salarial (Referência Brasil)](#panorama-salarial-referência-brasil)
   - [Verticais de Atuação](#verticais-de-atuação)
   - [Stack Tecnológico Indispensável](#stack-tecnológico-indispensável)
@@ -83,21 +83,21 @@ O impacto do Java reside nesta capacidade única de equilibrar a inovação agre
 
 <table>
   <tr>
-    <td><img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ioSCzmjNEj25erd_6lCbug7e_goNUFlQWw&s)" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/6b3aafb4-0bc6-4205-9499-8ce63d3619c7" width="300"></td>
     <td>
       <h3>Apache NetBeans</h3>
       <p>Simples e direta, excelente para criar interfaces gráficas (Swing) e fácil de configurar nativamente.</p>
     </td>
   </tr>
   <tr>
-    <td><img src="URL_DA_IMAGEM_ECLIPSE" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/1162b0f1-d68a-4d7f-ada3-b8d5c0c59c8d" width="300"></td>
     <td>
       <h3>Eclipse</h3>
       <p>Um clássico altamente extensível via plugins, ideal para projetos complexos e totalmente gratuitos.</p>
     </td>
   </tr>
   <tr>
-    <td><img src="URL_DA_SUA_IMAGEM" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/f0b00164-e619-4e36-b373-5ef8a7ce60d8" width="300"></td>
     <td>
       <h3>IntelliJ IDEA</h3>
       <p>A mais moderna e "inteligente", famosa pela auto completagem fluida e refatoração avançada (paga/gratuita).</p>
@@ -119,6 +119,7 @@ O impacto do Java reside nesta capacidade única de equilibrar a inovação agre
 
 A Classe define o contrato e os atributos (blueprint), enquanto o objeto é a materialização deste contrato na memória.
 
+```java
 // Classe: O modelo
 class Carro {
 
@@ -141,6 +142,7 @@ public class Main {
     }
 
 }
+```
 
 ## Encapsulamento 
 
