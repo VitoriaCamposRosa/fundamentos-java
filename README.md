@@ -122,15 +122,12 @@ A Classe define o contrato e os atributos (blueprint), enquanto o objeto é a ma
 ```java
 // Classe: O modelo
 class Carro {
-
     String modelo;
     int ano;
-
 }
 
 // Objeto: Instância da classe
 public class Main {
-
     public static void main(String[] args) {
 
         Carro meuCarro = new Carro();
@@ -138,9 +135,7 @@ public class Main {
         meuCarro.ano = 2024;
 
         System.out.println(meuCarro.modelo);
-
     }
-
 }
 ```
 
@@ -148,13 +143,60 @@ public class Main {
 
   Não se trata apenas de "esconder" variáveis, mas de garantir a integridade do estado interno do objeto. Ao usar métodos acessores, impedimos que o objeto entre num estado inválido (ex: saldo negativo ou idade impossível).
 
+```java
+public class ContaBancaria {
+    private double saldo; // atributo protegido
+    public void depositar(double valor) {
+
+        if (valor > 0) { // regra de integridade
+            saldo += valor;
+        }
+    }
+
+    public double getSaldo() {
+        return saldo;
+    }
+}
+```
+
 ## Herança
 
   Permite a especialização de comportamentos, promovendo a reutilização e a organização hierárquica.
 
+```java
+class Veiculo {
+    void mover() {
+        System.out.println("o veículo desloca-se.");
+}
+
+class Moto extends Veiculo {
+
+}
+```
+
 ## Polimorfismo
 
   A capacidade de um objeto assumir múltiplas formas. Para ser efetivo, exige a sobrescrita de métodos para que o comportamento mude conforme o tipo real da instância.
+
+```java
+class Veiculo {
+    void mover() {
+        System.out.println("o veículo desloca-se.");
+}
+
+class Moto extends Veiculo {
+    @Override
+    void mover() {
+        System.out.println("A moto acelera entre os carros.");
+    }
+}
+
+public class Main {
+
+    public static void main(String[] args) {
+        Veiculo v = new Moto();
+        v.mover();
+```
 
   O domínio destes pilares garante a segurança do código e a facilidade de manutenção em sistemas empresariais, onde a reutilização de componentes é vital para a rentabilidade do projeto
 
