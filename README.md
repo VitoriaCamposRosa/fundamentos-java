@@ -33,7 +33,7 @@
 
 ---
 
-# Parte 1 – Histórico e Evolução do Java
+# 1. Histórico e Evolução do Java
 
 ## Criação do Java
 
@@ -61,7 +61,7 @@ O impacto do Java reside nesta capacidade única de equilibrar a inovação agre
 
 ---
 
-# PARTE 2 – AMBIENTES DE DESENVOLVIMENTO (IDEs)
+# 2. AMBIENTES DE DESENVOLVIMENTO (IDEs)
 
   A escolha de uma IDE é uma decisão de engenharia que impacta diretamente a produtividade e a saúde do código. Uma ferramenta robusta atua como um mentor silencioso, aplicando análises estáticas e sugerindo refatorações que elevam a qualidade técnica do projeto antes mesmo da fase de testes.
 
@@ -105,7 +105,7 @@ O impacto do Java reside nesta capacidade única de equilibrar a inovação agre
 
 ---
 
-# PARTE 3 – PROGRAMAÇÃO ORIENTADA A OBJETOS (POO) 
+# 3. PROGRAMAÇÃO ORIENTADA A OBJETOS (POO) 
 
   A POO é a espinha dorsal do Java, permitindo a construção de sistemas que imitam a modularidade do mundo real. Este paradigma não serve apenas para organizar código; ele é a fundação para a criação de software extensível, onde a alteração num módulo não colapsa a estrutura inteira do sistema.
 
@@ -196,7 +196,7 @@ public class Main {
 
 ---
 
-# PARTE 4 – MERCADO DE TRABALHO PARA DESENVOLVEDORES JAVA
+# 4. MERCADO DE TRABALHO PARA DESENVOLVEDORES JAVA
 
   O mercado Java é caracterizado pela sua "perenidade". Enquanto linguagens da moda surgem e desaparecem, o Java mantém-se como a escolha de confiança para infraestruturas críticas, garantindo uma carreira estável e com alta valorização salarial.
   
