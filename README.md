@@ -228,7 +228,7 @@ Para ser competitivo, o profissional deve dominar
 
 ---
 
-# CONCLUSÃO
+# 🔍 CONCLUSÃO
   
   O Java continua a ser a escolha das empresas da Fortune 500 devido à sua previsibilidade e ao vasto ecossistema de bibliotecas maduras. Para o desenvolvedor, investir em Java não é apenas aprender uma linguagem, mas integrar-se numa infraestrutura tecnológica que sustenta a economia digital global. O futuro aponta para uma convergência cada vez maior com ambientes Cloud Native, exigindo que o profissional Java seja, acima de tudo, um Engenheiro de Software completo.
 
