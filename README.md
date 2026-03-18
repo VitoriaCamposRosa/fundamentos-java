@@ -1,8 +1,8 @@
-# Fundamentos, Evolução e o Ecossistema Java
+# ☕︎ Fundamentos, Evolução e o Ecossistema Java
 
 ---
 
-# Sumário
+# 📄 Sumário
 
 - [Introdução](#introdução)
 ### Parte 1 – Histórico e Evolução do Java
@@ -28,12 +28,12 @@
 
 ---
 
-# Introdução
+# 🖥 Introdução
   O Java não surgiu apenas como uma linguagem de programação, mas como uma resposta disruptiva à fragmentação tecnológica da década de 90. A sua filosofia fundamental, "Write Once, Run Anywhere" (Escrever uma vez, correr em qualquer lugar), revolucionou a indústria ao introduzir a Java Virtual Machine (JVM), uma camada de abstração que isola o software das complexidades do hardware subjacente. Este paradigma moldou o desenvolvimento moderno, estabelecendo padrões de robustez e portabilidade que permitiram a criação de sistemas globais escaláveis e independentes de plataforma.
 
 ---
 
-# 1. Histórico e Evolução do Java
+# 1. 📖 Histórico e Evolução do Java
 
 ## Criação do Java
 
@@ -61,7 +61,7 @@ O impacto do Java reside nesta capacidade única de equilibrar a inovação agre
 
 ---
 
-# 2. AMBIENTES DE DESENVOLVIMENTO (IDEs)
+# 2. 🛠 AMBIENTES DE DESENVOLVIMENTO (IDEs)
 
   A escolha de uma IDE é uma decisão de engenharia que impacta diretamente a produtividade e a saúde do código. Uma ferramenta robusta atua como um mentor silencioso, aplicando análises estáticas e sugerindo refatorações que elevam a qualidade técnica do projeto antes mesmo da fase de testes.
 
@@ -105,7 +105,7 @@ O impacto do Java reside nesta capacidade única de equilibrar a inovação agre
 
 ---
 
-# 3. PROGRAMAÇÃO ORIENTADA A OBJETOS (POO) 
+# 3. 🧑‍💻 PROGRAMAÇÃO ORIENTADA A OBJETOS (POO) 
 
   A POO é a espinha dorsal do Java, permitindo a construção de sistemas que imitam a modularidade do mundo real. Este paradigma não serve apenas para organizar código; ele é a fundação para a criação de software extensível, onde a alteração num módulo não colapsa a estrutura inteira do sistema.
 
@@ -196,7 +196,7 @@ public class Main {
 
 ---
 
-# 4. MERCADO DE TRABALHO PARA DESENVOLVEDORES JAVA
+# 4. 💼 MERCADO DE TRABALHO PARA DESENVOLVEDORES JAVA
 
   O mercado Java é caracterizado pela sua "perenidade". Enquanto linguagens da moda surgem e desaparecem, o Java mantém-se como a escolha de confiança para infraestruturas críticas, garantindo uma carreira estável e com alta valorização salarial.
   
