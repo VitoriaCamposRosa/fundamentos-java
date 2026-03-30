@@ -109,7 +109,7 @@ O impacto do Java reside nesta capacidade única de equilibrar a inovação agre
 
   A POO é a espinha dorsal do Java, permitindo a construção de sistemas que imitam a modularidade do mundo real. Este paradigma não serve apenas para organizar código; ele é a fundação para a criação de software extensível, onde a alteração num módulo não colapsa a estrutura inteira do sistema.
 
-## Classe
+## Classe & Objeto
 
 A Classe define o contrato e os atributos (blueprint), enquanto o objeto é a materialização deste contrato na memória.
 
